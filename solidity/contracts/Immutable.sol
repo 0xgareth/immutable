@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: UNLICENSED
 
-import "../node_modules/hardhat/console.sol";
+import "hardhat/console.sol";
 
 contract Immutable {
     constructor() {
